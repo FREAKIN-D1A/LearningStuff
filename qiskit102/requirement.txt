@@ -1,0 +1,16 @@
+gymnasium[atari]==0.29.1
+gymnasium[classic-control]==0.29.1
+gymnasium[accept-rom-license]==0.29.1
+moviepy
+numpy
+opencv-python
+torch
+torchvision
+pytorch-ignite
+tensorboard
+mypy
+ptan
+stable-baselines3
+torchrl
+ray[tune]
+pytest
