@@ -1,0 +1,5 @@
+main: 
+Deep Reinforcement Learning Hands-On A practical and easy-to-follow guide to RL from Q-learning and DQNs, 3rd Ed (Maxim Lapan) 
+
+others:
+Deep Reinforcement Learning with Python RLHF for Chatbots and Large Language Models, 2nd Edition (Nimish Sanghi)
